@@ -29,7 +29,7 @@ This course is designed to guide you through the core principles of functional p
 
 ## ▶️ Start Learning
 
-- [Go to Course Index](./index.md)
+- Go to [Course Index](./index.md)
 - Or jump into [Module 1](./module1/lesson1.md)
 
 ---
