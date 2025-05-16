@@ -29,23 +29,21 @@ Este es un ejemplo de archivo `README.md` que demuestra **todas** las caracterí
 
 ## 💻 Código
 
-Bloque de código con resaltado de sintaxis:
+Bloque de código con resaltado de sintaxis (usando `<pre>` y `<code>`):
+
+<pre><code class="language-python">
+def saludar(nombre):
+    print(f"Hola, {nombre} 👋")
+
+saludar("GitHub")
+</code></pre>
+
+Bloque de código con sangría (cuatro espacios):
 
 <pre>
-fl ```python
-fl def saludar(nombre):
-fl     print(f"Hola, {nombre} 👋")
-fl 
-fl saludar("GitHub")
-fl ```
-</pre>
-
-Bloque de código con sangría:
-
-<pre>
-fl     function hola() {
-fl         console.log("Hola mundo con sangría");
-fl     }
+    function hola() {
+        console.log("Hola mundo con sangría");
+    }
 </pre>
 
 ## 💬 Citas
@@ -91,10 +89,10 @@ fl     }
 
 ## 🔗 Referencias
 
-- Relacionado con el issue #123
-- Consulta el PR user/repo#456
-- Revisar commit `a1b2c3d4`
-- Gracias a @octocat
+- Relacionado con el issue #123  
+- Consulta el PR user/repo#456  
+- Revisar commit `a1b2c3d4`  
+- Gracias a @octocat  
 
 ## 🧩 HTML y Detalles
 
