@@ -14,7 +14,8 @@ JavaScript puede ser técnico, y este curso está pensado para gente que ya enti
 Si no estás seguro, te recomiendo darle un vistazo a los módulos de:
 
 - [Lógica y pensamiento computacional](../logic/README.md)
-- [Expresión y formas de pensar el código](../modulos/modulo-04-expresion/README.md)
+- [Expresión y formas de pensar el código](../expression/README.md)
+- [Para ver lo que ofrece el curso](../../index.md)
 
 Ahí vas a encontrar conceptos que te van a ayudar a agarrar ritmo y entender el "por qué" del código, no solo el "cómo".
 
