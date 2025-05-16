@@ -1,39 +1,69 @@
-# 📚 Guía Getti's JS - Tabla de Contenidos
+# 🧠 Getti's JS Guide
 
-## 🚀 Introducción
-
-- [Empieza por aquí (si no sabes nada)](modules/intro/README.md)  
-  Aquí te ayudamos a arrancar sin conocimientos previos y te mostramos dónde encontrar lo básico para no perderte.
-
-## 🧩 Básicos
-
-- [¿Qué es una variable realmente?](modules/basics/variables/README.md)  
-  Entiende el concepto de variable más allá de la definición técnica, cómo y cuándo usarlas.
-
-- [Funciones y estructuras básicas](modules/basics/structures/README.md)  
-  Aprende a pensar en acciones mediante funciones y a manejar las estructuras de control esenciales.
-
-- [Flujo de control](modules/basics/control-flow/README.md)  
-  Descubre cómo controlar el orden y las decisiones en tu código con condicionales y bucles.
-
-## 🧠 Lógica
-
-- [Pensando en código, no solo escribiendo líneas](modules/logic/README.md)  
-  Conceptos para desarrollar el pensamiento lógico que está detrás de cualquier programa, más allá de la sintaxis.
-
-## 🎨 Expresión
-
-- [Cómo usar JS como si fuera arte (sí, en serio)](modules/expression/README.md)  
-  Usa JavaScript como una herramienta para experimentar, crear y expresar tus ideas de forma libre y creativa.
-
-## 📦 Recursos y pruebas
-
-- [Recursos adicionales](modules/resources/README.md)  
-  Material complementario, glosarios, enlaces útiles y todo lo que ayuda a profundizar o resolver dudas.
-
-- [Tests y evaluaciones](modules/tests/README.md)  
-  Ejercicios y cuestionarios para poner a prueba tus conocimientos y practicar lo aprendido.
+> _Una guía para aprender JavaScript sin tragarte un curso._
 
 ---
 
-¿Quieres que te arme también los índices internos para cada módulo con enlaces a lecciones?
+## 📣 ¿Qué es esto?
+
+**Getti's JS Guide** es un curso de JavaScript que *odia parecerse a un curso*.
+
+No hay clases aburridas.  
+No hay “primero variables, luego funciones, luego bla bla”.  
+Tampoco hay tutoriales de 4 horas que te dicen cómo pensar.
+
+Este es un espacio para que aprendas JavaScript como lo aprendí yo:  
+**en la práctica, desde la necesidad, haciendo cosas reales**.
+
+---
+
+## 🚧 ¿Qué hace diferente a esta guía?
+
+- No hay camino obligatorio. Tomas lo que necesitas, cuando lo necesitas.
+- Aprendizaje relacional y conceptual, no memorización.
+- Comparaciones con otros lenguajes (Python, Java) y hasta con el lenguaje humano.
+- En lugar de explicarte cómo seguir reglas, te invito a romperlas y entender por qué existen.
+- El código es una herramienta, no una jaula. Usémoslo como forma de **expresión creativa**.
+
+---
+
+## 🧭 ¿Cómo usar esta guía?
+
+No la sigas.  
+Léela, rómpela, explórala.  
+**Salta de tema si quieres. O quédate donde estés.**
+
+Los módulos están organizados por conceptos, no por nivel.  
+Así que si algo te interesa, entra. Si no, pasa.
+
+---
+
+## 🧱 Módulos sugeridos
+
+- [🚀 Empieza por aquí (si no sabes nada)](modules/intro/README.md)
+- [🧩 ¿Qué es una variable realmente?](modules/basics/variables/README.md)
+- [🔥 Funciones: la forma de pensar en acciones](modules/basics/structures/README.md)
+- [🧠 Pensando en código, no escribiendo líneas](modules/logic/README.md)
+- [🎨 Cómo usar JS como si fuera arte (sí, en serio)](modules/expression/README.md)
+- [👥 Para ver la tabla de contenido](index.md)
+
+---
+
+## 🤔 ¿Quién hizo esto?
+
+Soy **Getti**, y no soporto tomar cursos.  
+Así que hice uno como me hubiera gustado encontrarlo.
+
+No te enseño lo que sé, te comparto cómo llegué a entenderlo.
+
+---
+
+## 💬 ¿Feedback, dudas o ideas?
+
+- **Discord**: gettis-dc / melito._.
+
+---
+
+> _Esto no es un camino recto.  
+> Es un mapa suelto, lleno de atajos y desvíos.  
+> Vos decidís por dónde empezar._
