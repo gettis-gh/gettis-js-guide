@@ -1,37 +1,70 @@
----
-layout: default
-title: Course Home
----
+# 🧠 Getti's JS Guide
 
-# 🚀 Welcome to the Functional Programming Course!
-
-This course is designed to guide you through the core principles of functional programming — from the basics to more advanced concepts — using clean and concise examples.
+> _Una guía para aprender JavaScript sin tragarte un curso._
 
 ---
 
-## 📘 What You'll Learn
+## 📣 ¿Qué es esto?
 
-- What functional programming is and why it matters
-- Pure functions and immutability
-- Recursion and higher-order functions
-- Composition and functional pipelines
-- Real-world applications and patterns
+**Getti's JS Guide** es un curso de JavaScript que *odia parecerse a un curso*.
 
----
+No hay clases aburridas.  
+No hay “primero variables, luego funciones, luego bla bla”.  
+Tampoco hay tutoriales de 4 horas que te dicen cómo pensar.
 
-## 📚 How the Course Works
-
-- The course is divided into **modules**, each with several **lessons**.
-- Every lesson is written in Markdown and rendered as a clean webpage using Jekyll.
-- Use the navigation links at the bottom of each page to move forward or back.
+Este es un espacio para que aprendas JavaScript como lo aprendí yo:  
+**en la práctica, desde la necesidad, haciendo cosas reales**.
 
 ---
 
-## ▶️ Start Learning
+## 🚧 ¿Qué hace diferente a esta guía?
 
-- Go to [Course Index](./index.md)
-- Or jump into [Module 1](./module1/lesson1.md)
+- No hay camino obligatorio. Tomas lo que necesitas, cuando lo necesitas.
+- Aprendizaje relacional y conceptual, no memorización.
+- Comparaciones con otros lenguajes (Python, Java) y hasta con el lenguaje humano.
+- En lugar de explicarte cómo seguir reglas, te invito a romperlas y entender por qué existen.
+- El código es una herramienta, no una jaula. Usémoslo como forma de **expresión creativa**.
 
 ---
 
-Happy learning! ✨
+## 🧭 ¿Cómo usar esta guía?
+
+No la sigas.  
+Léela, rómpela, explórala.  
+**Salta de tema si quieres. O quédate donde estés.**
+
+Los módulos están organizados por conceptos, no por nivel.  
+Así que si algo te interesa, entra. Si no, pasa.
+
+---
+
+## 🧱 Módulos sugeridos
+
+- [🚀 Empieza por aquí (si no sabes nada)](modulos/modulo-01-intro/README.md)
+- [🧩 ¿Qué es una variable realmente?](modulos/modulo-01-intro/leccion-01.md)
+- [🔥 Funciones: la forma de pensar en acciones](modulos/modulo-02-funciones/README.md)
+- [🧠 Pensando en código, no escribiendo líneas](modulos/modulo-03-logica/README.md)
+- [🎨 Cómo usar JS como si fuera arte (sí, en serio)](modulos/modulo-04-expresion/README.md)
+
+---
+
+## 🤔 ¿Quién hizo esto?
+
+Soy **Getti**, y no soporto tomar cursos.  
+Así que hice uno como me hubiera gustado encontrarlo.
+
+No te enseño lo que sé, te comparto cómo llegué a entenderlo.
+
+---
+
+## 💬 ¿Feedback, dudas o ideas?
+
+- [Abrí un issue](https://github.com/tuusuario/tu-repo/issues)
+- [Escribime](mailto:tuemail@example.com)
+- [O rompe esto y haz tu propia guía](LICENSE.md)
+
+---
+
+> _Esto no es un camino recto.  
+> Es un mapa suelto, lleno de atajos y desvíos.  
+> Vos decidís por dónde empezar._
