@@ -45,7 +45,7 @@ Así que si algo te interesa, entra. Si no, pasa.
 - [🔥 Funciones: la forma de pensar en acciones](modules/basics/structures/README.md)
 - [🧠 Pensando en código, no escribiendo líneas](modules/logic/README.md)
 - [🎨 Cómo usar JS como si fuera arte (sí, en serio)](modules/expression/README.md)
-- [👥 Para ver la tabla de contenido](index.md)
+- [👥 Para ver la tabla de contenido](content-table.md)
 
 ---
 
