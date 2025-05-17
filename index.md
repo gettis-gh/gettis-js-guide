@@ -40,12 +40,39 @@ Así que si algo te interesa, entra. Si no, pasa.
 
 ## 🧱 Módulos sugeridos
 
-- [🚀 Empieza por aquí (si no sabes nada)](modules/intro/README.md)
-- [🧩 ¿Qué es una variable realmente?](modules/basics/variables/README.md)
-- [🔥 Funciones: la forma de pensar en acciones](modules/basics/structures/README.md)
-- [🧠 Pensando en código, no escribiendo líneas](modules/logic/README.md)
-- [🎨 Cómo usar JS como si fuera arte (sí, en serio)](modules/expression/README.md)
-- [👥 Para ver la tabla de contenido](index.md)
+Esta no es una ruta rígida ni un roadmap estricto, sino una selección de puntos interesantes para que explores si no sabés por dónde arrancar o simplemente querés descubrir temas clave.
+
+Podés saltar entre módulos libremente o usarlos como inspiración para tu propio camino.
+
+Para una guía más detallada y adaptada a distintos niveles, en la [introducción](modules/intro/README.md) encontrarás varios roadmaps pensados para principiantes, intermedios y otros perfiles.
+
+Aquí algunas recomendaciones para que veas de qué va el curso:
+
+- [🚀 Empieza por aquí (para principiantes)](modules/intro/README.md)  
+  El lugar ideal para arrancar si no tenés experiencia o querés orientarte con las rutas sugeridas.
+
+- [🧠 Pensando en código, no solo escribiendo líneas](modules/logic/README.md)  
+  Reflexiona sobre el pensamiento lógico que sostiene la programación, más allá de la sintaxis.
+
+- [🧩 ¿Qué es una variable realmente?](modules/basics/variables/README.md)  
+  Entiende las variables de forma profunda, más allá de su definición técnica.
+
+- [🔥 Funciones: la forma de pensar en acciones](modules/basics/structures/README.md)  
+  Aprende a conceptualizar acciones y organizar tu código con funciones y estructuras básicas.
+
+- [🎨 Cómo usar JS como si fuera arte (sí, en serio)](modules/expression/README.md)  
+  Explora JavaScript como una herramienta para expresar tus ideas y creatividad.
+
+- [📚 Ver todos los temas (índice general)](content-table.md)  
+  Un índice completo para navegar a tu ritmo.
+
+---
+
+## 🛠 Organización técnica del curso
+
+Si querés ver cómo está organizado el contenido en archivos y carpetas, para navegar de forma más técnica y transparente, podés consultar la estructura del proyecto. No es necesario, pero puede ser útil:
+
+- [Estructura técnica (vista de archivos)](structure.md)
 
 ---
 
