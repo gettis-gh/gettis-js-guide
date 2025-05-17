@@ -30,17 +30,9 @@ Aquí te dejo lo esencial para que entiendas la diferencia:
 - **var**: la forma antigua, no recomendable hoy, pero aún existe.
 
 Para entender mejor los tipos de variables, mira:  
-- [let](let.md)  
-- [const](const.md)  
-- [var](var.md)
-
----
-
-## ¿Por qué usar variables?
-
-- Para **guardar datos** que tu programa necesita, como nombres, números, resultados.  
-- Para **hacer tu código legible**, usando nombres que tengan sentido.  
-- Para **poder modificar y reutilizar información** sin repetir código.
+- [Variables let](let.md)  
+- [Variables const](const.md)  
+- [Variables var](var.md)
 
 ---
 
@@ -55,6 +47,14 @@ Antes de ver ejemplos prácticos, te recomiendo que sepas que hay dos conceptos 
   Para entenderlo mejor, revisa [Hoisting en JavaScript](hoisting.md).
 
 Estos temas pueden parecer un poco avanzados para arrancar, por eso los dejamos en archivos separados para que los consultes cuando estés listo.
+
+---
+
+## ¿Por qué usar variables?
+
+- Para **guardar datos** que tu programa necesita, como nombres, números, resultados.  
+- Para **hacer tu código legible**, usando nombres que tengan sentido.  
+- Para **poder modificar y reutilizar información** sin repetir código.
 
 ---
 
